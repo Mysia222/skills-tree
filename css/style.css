@@ -1,0 +1,14 @@
+ul {
+    color: #6d99c5;
+    display: block;
+    list-style: none;
+}
+
+.sub-listings {
+    color: #466788
+}
+
+.sub-listings:hover {
+    color: #34495e;
+    font-weight: bold;
+}
